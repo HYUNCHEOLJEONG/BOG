@@ -5,8 +5,4 @@ int main() {
 	scanf("%d", &B);
 	printf("%.9f", (double) A / B);
 
-
-
-
-
 }
