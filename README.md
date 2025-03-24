@@ -1,6 +1,16 @@
-"From December 27, 2024, to February 10, 2025, I solved a wide range of algorithm problems on Baekjoon Online Judge using C programming. 
-Baekjoon is a platform that requires not only solving problems but also designing efficient algorithms and optimizing time complexity, which allowed me to showcase my problem-solving strategies, optimization techniques, and memory management skills in C. 
-The low-level nature of C allowed me to gain deep expertise in areas like memory allocation, pointer manipulation, and handling structures and arrays, which helped me develop a unique set of problem-solving skills.
-As I solved various problems, I learned the value of code optimization and debugging, as well as the persistence and determination required to solve problems to completion. 
-In particular, solving problems with time constraints helped me understand the importance of efficiency and performance optimization. 
-Through this experience, I not only improved my implementation skills but also developed the ability to solve more complex system problems that may be encountered in the workplace, significantly enhancing my overall problem-solving capabilities."
+프로젝트 개요:
+
+2024년 12월 27일부터 2025년 2월 10일까지, 저는 Baekjoon Online Judge에서 제공한 다양한 알고리즘 문제를 C 프로그래밍 언어로 해결했습니다.
+Baekjoon은 문제 해결뿐만 아니라 효율적인 알고리즘 설계와 시간 복잡도 최적화를 요구하는 플랫폼으로, 이를 통해 제 문제 해결 전략, 최적화 기술, 메모리 관리 능력을 보여줄 수 있었습니다. 
+C 언어의 저수준 특성 덕분에 메모리 할당, 포인터 조작, 구조체 및 배열 처리와 같은 분야에서 깊은 전문성을 쌓을 수 있었으며, 이 과정에서 독특한 문제 해결 능력을 개발했습니다.
+
+문제를 해결하면서 코드 최적화, 디버깅 기법, 그리고 완전한 문제 해결을 위한 끈기와 인내의 중요성을 배웠습니다. 특히 시간 제약이 있는 문제를 풀면서 효율성과 성능 최적화의 중요성을 깊이 이해할 수 있었습니다.
+이러한 경험을 통해, 단순한 알고리즘 구현 능력을 넘어, 실제 업무에서 마주할 수 있는 복잡한 시스템 문제를 해결하는 능력까지 향상시킬 수 있었습니다. 
+이로써 문제 해결 능력을 크게 강화했으며, 더 나아가 실제 산업 환경에서 요구되는 성능 최적화 및 코드 효율성 개선을 위한 경험을 축적했습니다.
+
+주요 성과:
+문제 해결 전략: 다양한 난이도의 문제를 해결하면서 문제 분석 및 해결 전략을 개발하였고, 이를 통해 알고리즘 설계 및 최적화 능력을 강화했습니다.
+
+메모리 관리와 최적화: C 언어의 저수준 특성을 적극적으로 활용하여 메모리 관리와 최적화에 대한 깊은 이해를 얻었습니다.
+
+시간 복잡도 최적화: 시간 제약이 있는 문제에서 효율적인 해결 방법을 찾아내며 성능 최적화의 중요성을 실감했습니다.
